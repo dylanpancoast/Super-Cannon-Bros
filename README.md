@@ -19,7 +19,7 @@ Welcome to Super Cannon Bro where you play Samus, the protagonist of Metroid, in
 
 
 Setup:
-Run the .exe file within the Super Cannon Bro .zip file on a Window OS computer.
+Watch my walkthroguh of the game [here](https://youtu.be/4V9HTVQ7IpQ), or run the .exe file within the Super Cannon Bro .zip file on a Window OS computer.
 You will enter a rough edition of Level 1-1 from Super Mario Bros - I say rough, because there are no coins or breakable bricks in this version.
 Instead, you will immediately be thrown into the fray as a random enemy spawn generator spawns goombas and koopas into the far right quarter of the screen.
 A hint can be noted in the top left corner of the screen as you start the game stating that your objective is to ruck through Bowsers' minions as you search for the Bowser triplets themselves.
