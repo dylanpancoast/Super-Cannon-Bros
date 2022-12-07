@@ -1,5 +1,4 @@
 Dylan Pancoast
-CS-50 (Summer-2021)
 08/06/2021
 
 
